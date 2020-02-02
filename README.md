@@ -11,7 +11,7 @@
 - 言語 Python3.8
 - フレームワーク Django1.11
 - インフラ AWS EC2上にUbuntu/PostgreSQL/Nginxを設定し公開
-- データベース PostgreSQL
+- データベース SQLite3->PostgreSQL
 
 # アプリケーションの技術の詳細
 - Ubuntu16.04上にDjangoの動作環境を構築
