@@ -17,7 +17,7 @@
 - Ubuntu16.04上にDjangoの動作環境を構築
 - TeraTermからUbuntuに接続
 - AWS EC2インスタンス管理・料金チェック
-- WSGIを使用、Nginx, Gunicorn, Djangoを使ってアプリの運用
+- WSGI(Web Server Gateway Interface)を使用、Nginx, Gunicorn, Djangoを使ってアプリの運用
 
 # References
 [【3日でできる】Django 入門 ( Python 3 でウェブアプリを作って AWS EC2 で公開！）](https://www.udemy.com/course/django-beginner/)
