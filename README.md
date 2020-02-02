@@ -15,7 +15,7 @@
 
 # アプリケーションの技術の詳細
 - Ubuntu16.04上にDjangoの動作環境を構築
-- TeraTermからUbuntuに接続
+- TeraTermからAWS EC2上のUbuntuに接続
 - AWS EC2インスタンス管理・料金チェック
 - WSGI(Web Server Gateway Interface)を使用、Nginx, Gunicorn, Djangoを使ってアプリの運用
 
